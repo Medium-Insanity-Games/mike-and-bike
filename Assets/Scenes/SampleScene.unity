@@ -131,6 +131,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 506076885095397181, guid: 7f09e7b4754db054ea2c2230dc281e1e, type: 3}
+      propertyPath: m_TreeCrossFadeLength
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 506076885095397181, guid: 7f09e7b4754db054ea2c2230dc281e1e, type: 3}
+      propertyPath: m_DetailObjectDistance
+      value: 360
+      objectReference: {fileID: 0}
+    - target: {fileID: 506076885095397181, guid: 7f09e7b4754db054ea2c2230dc281e1e, type: 3}
+      propertyPath: m_TreeBillboardDistance
+      value: 363
+      objectReference: {fileID: 0}
     - target: {fileID: 2203666946543433716, guid: 7f09e7b4754db054ea2c2230dc281e1e, type: 3}
       propertyPath: m_Name
       value: Island
